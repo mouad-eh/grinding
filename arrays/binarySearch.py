@@ -1,4 +1,4 @@
-# binary search returning the index where the item should be inserted if not found
+# Binary Search returning the index where the item should be inserted if not found
 def binarySearch(arr, value):
     s, e = 0, len(arr)-1
     found = False
